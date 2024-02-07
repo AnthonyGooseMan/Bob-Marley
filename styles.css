@@ -1,0 +1,17 @@
+body{
+   
+    background:  url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bob-Marley.jpg/440px-Bob-Marley.jpg") no-repeat fixed center; 
+    background-size: cover;
+     background-color: rgba(255, 255, 255, 0.7);
+   background-blend-mode: lighten;
+    position: center;
+  
+  }
+  h2{background-color: lightgreen ; text-decoration: red; color: red;}
+  .jbird {background-color: red; color: aquamarine;}
+  h3{background-color: green; color: aquamarine;}
+  .nighthawk{background-color:lightblue ; color: green;}
+  p{background-color: lightgreen; color: darkorchid;}
+
+
+  h4{background-color: rgb(143, 230, 143); width: 17; }
